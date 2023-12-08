@@ -1,6 +1,7 @@
 import { Roboto } from 'next/font/google'
 import './globals.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
 const font = Roboto({ subsets: ['greek'] , style:'normal' , weight:'400' })
 
 

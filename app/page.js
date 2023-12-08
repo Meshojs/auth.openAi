@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import logo from '../public/open.png';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Main from './components/main';
 import Footer from './components/footer'
 export default function App() {
@@ -13,7 +12,6 @@ export default function App() {
             <Main/>
 
             <Footer/>
-
 
     </>
   );

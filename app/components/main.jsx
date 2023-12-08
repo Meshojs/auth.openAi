@@ -2,7 +2,7 @@ import Image from 'next/image';
 import micro from '/public/micro.svg';
 import apple from '/public/apple.svg';
 import google from '/public/google.svg';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 export default function Main() {
     return (
